@@ -1,5 +1,3 @@
-# Leetcode notes
-
 ## Strings 
 
 ### Useful functions
@@ -29,20 +27,3 @@
     use while(getline(string stream, example , ' delminater')){
         example is now each string before the delminater
     }
-
-
-## Union find 
-
-find 
-unite 
-
-what the parent function does and what it stands for look at most recent assessment 
-
-how to init parent 
-
-
-
-
-## Binary Search 
-
-General algorithm 
