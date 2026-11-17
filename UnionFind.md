@@ -7,7 +7,7 @@ Useful in graph problems where certain groups need to be linked together
 
 ## General Solution 
 
-Generally we connect each node to their parent and this is stored in a vector<int>parent. We start off with each node being its own
+Generally we connect each node to their parent and this is stored in a vector called parent. We start off with each node being its own
 parent and then we travese the graph allocating the correct parent using the unite and find functions.
 
 The find and unite function are ususally the same no matter the question:
